@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class findSelenideAtGitTest {
+public class FindSelenideAtGitTest {
     @BeforeAll
     static void beforeAll() {
         Configuration.browserSize = "1920x1080";
