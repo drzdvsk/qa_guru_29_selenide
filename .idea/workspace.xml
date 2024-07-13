@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="426c8c81-b182-48b1-8e64-8373dedcffd9" name="Changes" comment="add .gitignore">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,27 +74,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.findSelenideAtGit.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.findSelenideAtGit.findSelenideAtGit.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.findSelenideAtGitTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.findSelenideAtGitTest.findSelenideAtGit.executor&quot;: &quot;Debug&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Power/IdeaProjects/qa_guru_29_selenide&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Power/IdeaProjects/qa_guru_29_selenide/src/main/java/ru/drzdvsk/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.findSelenideAtGit.executor": "Debug",
+    "Gradle.findSelenideAtGit.findSelenideAtGit.executor": "Debug",
+    "Gradle.findSelenideAtGitTest.executor": "Run",
+    "Gradle.findSelenideAtGitTest.findSelenideAtGit.executor": "Debug",
+    "Gradle.findSelenideAtGitTest.findSelenideTest.executor": "Debug",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Power/IdeaProjects/qa_guru_29_selenide",
+    "onboarding.tips.debug.path": "C:/Users/Power/IdeaProjects/qa_guru_29_selenide/src/main/java/ru/drzdvsk/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Power\IdeaProjects\qa_guru_29_selenide\.idea" />

@@ -1,12 +1,9 @@
-import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.*;
-import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
-import static com.codeborne.selenide.files.DownloadActions.click;
 
 public class findSelenideAtGitTest {
     @BeforeAll
@@ -14,7 +11,7 @@ public class findSelenideAtGitTest {
         Configuration.browserSize = "1920x1080";
         Configuration.baseUrl = "https://github.com/";
         Configuration.pageLoadStrategy = "eager";
-        Configuration.holdBrowserOpen = true;
+        Configuration.holdBrowserOpen = false;
     }
 
     @Test
@@ -29,6 +26,5 @@ public class findSelenideAtGitTest {
         $("a#user-content-3-using-junit5-extend-test-class")
             .shouldHave(href("#3-using-junit5-extend-test-class"))
             .scrollIntoView(true);
-        System.out.println("example for JUnit 5 is found");
     }
 }
